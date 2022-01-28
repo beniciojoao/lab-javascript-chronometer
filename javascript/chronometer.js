@@ -1,3 +1,4 @@
+//Chronometer JS
 class Chronometer {
   constructor() {
     // ... your code goes here

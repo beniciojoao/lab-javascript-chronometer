@@ -1,3 +1,4 @@
+// Chronometer const
 const chronometer = new Chronometer();
 
 // get the buttons:
